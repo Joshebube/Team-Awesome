@@ -16,7 +16,7 @@ body{
     box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
     background: #fff;
     padding: 20px;
-    margin: 8% auto 0;
+    margin: 5% auto;
     text-align: center;
 }
 
@@ -35,7 +35,7 @@ body{
     border: 1px solid #999;
     outline: none;
     font-size: 15px;
-    text-align: justify;
+    text-align: center;
 }
 
 /* global button*/
