@@ -7,7 +7,7 @@ body{
     background-image: ;
     background-size: cover;
     background-position: center; 
-    background-color: #e7e4e4;
+    background-color: #e9e5e5;
 }
 
 
@@ -17,8 +17,10 @@ body{
     box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
     background: #fff;
     padding: 20px;
-    margin: 8% auto 0;
+    margin: 4% auto 4%;
     text-align: center;
+    
+    
 }
 
 .awesome-sign-in h1{
@@ -38,6 +40,7 @@ body{
     font-size: 15px;
     text-align: justify;
     color: rgba(71, 71, 71, 0.884);
+    background: transparent;
 }
 
 /* global button*/
