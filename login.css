@@ -41,6 +41,7 @@ body{
     text-align: justify;
     color: rgba(71, 71, 71, 0.884);
     background: transparent;
+    transition: 0.3s;
 }
 
 /* global button*/
