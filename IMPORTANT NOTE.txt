@@ -1,0 +1,2 @@
+***IMPORTANT NOTE***
+The php authentication used for the password doesn't hash the password at the backend. This was done only for the sole purpose of test verification and not negligence.
